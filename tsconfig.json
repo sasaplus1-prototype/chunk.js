@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "newLine": "lf",
+    "rootDir": ".",
+    "strict": true,
+    "target": "ESNext"
+  },
+  "files": [
+    "index.ts"
+  ]
+}

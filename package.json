@@ -1,0 +1,20 @@
+{
+  "name": "chunk",
+  "description": "same as lodash.chunk",
+  "version": "1.0.0",
+  "author": "sasa+1 <sasaplus1@gmail.com>",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "license": "MIT",
+  "main": "./index.js",
+  "private": true,
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasaplus1-prototype/chunk.js.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
